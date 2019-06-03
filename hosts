@@ -81,9 +81,24 @@ ff02::2 ip6-allrouters
 151.101.60.193    imgur.com
 151.101.36.193 m.imgur.com
 
+# ---------------------------------------------------
+# Fap Section
+# ---------------------------------------------------
+
 66.254.114.41 pornhub.com
 66.254.114.41 www.pornhub.com
 
 104.28.2.29 tsumino.com
 104.28.2.29 www.tsumino.com
 104.28.2.29 ga.tsumino.com
+
+141.101.120.55 nhentai.net
+141.101.120.55 t.nhentai.net
+141.101.120.55 www.nhentai.net
+141.101.120.55 static.nhentai.net
+
+104.28.25.155 nekopoi.care
+104.28.25.155 www.nekopoi.care
+
+104.25.6.27 indoxxi.tube
+104.25.6.27 www.indoxxi.tube
