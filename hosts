@@ -93,9 +93,10 @@ ff02::2 ip6-allrouters
 104.28.2.29 ga.tsumino.com
 
 141.101.120.55 nhentai.net
-141.101.120.55 t.nhentai.net
+185.165.243.200 t.nhentai.net
+185.165.243.201 i.nhentai.net
 141.101.120.55 www.nhentai.net
-141.101.120.55 static.nhentai.net
+141.101.120.54 static.nhentai.net
 
 104.28.25.155 nekopoi.care
 104.28.25.155 www.nekopoi.care
