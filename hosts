@@ -1,8 +1,6 @@
 127.0.0.1	localhost
-127.0.1.1	regalia
-::1	localhost ip6-localhost ip6-loopback
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
+::1		localhost
+127.0.1.1	pop-os.localdomain	pop-os
 
 # ---------------------------------------------------
 # Vimeo
@@ -94,8 +92,8 @@ ff02::2 ip6-allrouters
 104.28.3.29 content.tsumino.com
 
 141.101.120.55 nhentai.net
-185.165.243.200 t.nhentai.net
-185.165.243.201 i.nhentai.net
+198.255.82.50 t.nhentai.net
+185.177.127.78 i.nhentai.net
 141.101.120.55 www.nhentai.net
 141.101.120.54 static.nhentai.net
 
@@ -112,3 +110,6 @@ ff02::2 ip6-allrouters
 172.64.206.18 hanime.tv
 172.64.206.18 members.hanime.tv
 172.64.207.18 hr.hanime.tv
+
+151.101.32.193 imgur.com
+104.16.1.35 i.stack.imgur.com
